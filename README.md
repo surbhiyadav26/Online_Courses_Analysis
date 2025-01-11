@@ -2,7 +2,7 @@
 
 This project analyzes data from various online courses, uncovering trends, engagement patterns, and opportunities for growth in the e-learning landscape. Built with **Power BI**, the dashboard provides actionable insights to guide strategic decisions for educational providers.
 #### Live Dahsboard:[Online_courses Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2E2ZTZkYzQtYjVjNi00MDJlLTk5NDgtYzlmYmZlMmU0ZjViIiwidCI6ImQ1MTFhNzlhLTI4MzgtNDlmZS04MDJjLWVhYjhjNzk4NjBjZSJ9)
-![Dashboard](Screenshot 2025-01-11 113132.png)
+![Dashboard](https://github.com/surbhiyadav26/Online_Courses_Analysis/blob/main/Screenshot%202025-01-11%20113132.png?raw=true))
 ----------
 
 ##  **Key Insights**
